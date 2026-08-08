@@ -61,5 +61,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

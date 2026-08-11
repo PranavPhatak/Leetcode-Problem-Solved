@@ -1,8 +1,6 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         word_count = {}
-
-
         
         for char in s:
             word_count[char] = word_count.get(char, 0) + 1

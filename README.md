@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |

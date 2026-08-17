@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

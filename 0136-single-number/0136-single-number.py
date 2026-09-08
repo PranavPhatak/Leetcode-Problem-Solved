@@ -11,3 +11,5 @@ class Solution:
         for key, value in no_count.items():
             if value == 1:
                 return key
+
+        return -1

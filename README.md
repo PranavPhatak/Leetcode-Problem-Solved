@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1934-confirmation-rate) |

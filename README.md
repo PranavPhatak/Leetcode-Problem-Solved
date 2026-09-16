@@ -179,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/1934-confirmation-rate) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

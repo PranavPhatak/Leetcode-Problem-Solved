@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0136-single-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -192,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PranavPhatak/Leetcode-Problem-Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
